@@ -40,7 +40,7 @@ public class ProgramacionOO {
                                 }
                                 break;
                             case "Apple":
-                                valor = 999.95;
+                                valor = 989.99;
                                 if(!telefono.equals("")){
                                     objTelefono.setTelefono(telefono);
                                     objTelefono.setMarca(marca);
@@ -64,7 +64,7 @@ public class ProgramacionOO {
                                 }
                                 break;
                             case "LG":
-                                valor = 375.95;
+                                valor = 210.95;
                                 if(!telefono.equals("")){
                                     objTelefono.setTelefono(telefono);
                                     objTelefono.setMarca(marca);
@@ -72,7 +72,7 @@ public class ProgramacionOO {
                                 }
                                 break;
                             case "Motorola":
-                                valor = 415.85;
+                                valor = 350.85;
                                 if(!telefono.equals("")){
                                     objTelefono.setTelefono(telefono);
                                     objTelefono.setMarca(marca);
